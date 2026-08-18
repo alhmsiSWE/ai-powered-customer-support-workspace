@@ -10,9 +10,9 @@
 Teams will define the project scope, identify key user stories, and outline the core functionalities of the AI-powered customer support workspace.
 
 #### Tasks
-- [ ] **Define E-commerce Customer Support Scenario** (todo) — medium priority
+- [x] **Define E-commerce Customer Support Scenario** (done) — medium priority
 - [ ] **Gather Functional Requirements** (todo) — medium priority
-- [ ] **Initial Data Model Design** (todo) — medium priority
+- [x] **Initial Data Model Design** (done) — medium priority
 
 ### Salesforce Foundation Setup & Security
 - **Status:** todo
@@ -24,7 +24,7 @@ Set up the basic Salesforce environment, establish user profiles and permission 
 #### Tasks
 - [ ] **Configure User Profiles and Permission Sets** (todo) — medium priority
 - [ ] **Establish Object and Field Security** (todo) — medium priority
-- [ ] **Data Model Implementation** (todo) — medium priority
+- [x] **Data Model Implementation** (done) — medium priority
 
 ### Lightning Experience UI Development
 - **Status:** todo
