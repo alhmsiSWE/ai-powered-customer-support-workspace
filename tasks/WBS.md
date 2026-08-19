@@ -22,8 +22,8 @@ Teams will define the project scope, identify key user stories, and outline the 
 Set up the basic Salesforce environment, establish user profiles and permission sets for support agents, and configure initial data management.
 
 #### Tasks
-- [ ] **Configure User Profiles and Permission Sets** (todo) — medium priority
-- [ ] **Establish Object and Field Security** (todo) — medium priority
+- [x] **Configure User Profiles and Permission Sets** (done) — medium priority
+- [x] **Establish Object and Field Security** (done) — medium priority
 - [x] **Data Model Implementation** (done) — medium priority
 
 ### Lightning Experience UI Development
@@ -34,9 +34,9 @@ Set up the basic Salesforce environment, establish user profiles and permission 
 Design and build the core Lightning App, Lightning Pages, and components that support agents will use for daily operations.
 
 #### Tasks
-- [ ] **Design and Build Lightning App for Agents** (todo) — medium priority
+- [ ] **Design and Build Lightning App for Agents** (in_progress) — medium priority
 - [ ] **Develop Lightning Record Pages for Case Object** (todo) — medium priority
-- [ ] **Create Lightning Home Page/App Page** (todo) — medium priority
+- [ ] **Create Lightning Home Page/App Page** (in_progress) — medium priority
 
 ### Agentforce Integration & Prompt Engineering
 - **Status:** todo
