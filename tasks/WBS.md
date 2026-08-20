@@ -58,9 +58,9 @@ Begin integrating Agentforce into the Salesforce environment, defining agents, t
 Implement Salesforce Flows to automate business processes and integrate them with Agentforce for intelligent decision-making and task execution.
 
 #### Tasks
-- [ ] **Build a Screen Flow for Case Creation/Update** (todo) — medium priority
-- [ ] **Implement Record-Triggered Flow for Case Escalation** (todo) — medium priority
-- [ ] **Integrate Agentforce with Flows** (todo) — medium priority
+- [x] **Build a Screen Flow for Case Creation/Update** (todo) — medium priority
+- [x] **Implement Record-Triggered Flow for Case Escalation** (todo) — medium priority
+- [x] **Integrate Agentforce with Flows** (todo) — medium priority
 
 ### Custom Component Development & Advanced AI
 - **Status:** todo
@@ -71,8 +71,8 @@ Develop custom Lightning Web Components to enhance the user experience and explo
 
 #### Tasks
 - [ ] **Develop a Custom Lightning Web Component (LWC)** (todo) — medium priority
-- [ ] **Refine Prompt Engineering and Agent Actions** (todo) — medium priority
-- [ ] **Explore Einstein Trust Layer Concepts** (todo) — medium priority
+- [x] **Refine Prompt Engineering and Agent Actions** (todo) — medium priority
+- [x] **Explore Einstein Trust Layer Concepts** (todo) — medium priority
 
 ### Testing, Debugging & Reports
 - **Status:** todo
