@@ -4,7 +4,7 @@ This capstone project involves the design, development, and deployment of an AI-
 
 The project requires a comprehensive understanding of Salesforce platform features, including security, data management, and UI/UX design principles. Teams will be responsible for gathering requirements, architecting a scalable solution, configuring Salesforce components, developing custom functionalities, and ensuring the seamless integration of AI features. The final solution will demonstrate a practical application of Salesforce and AI technologies to address contemporary business challenges in customer service.
 
-**Status:** planning
+**Status:** review
 **Domain:** E-Commerce
 **Progress:** 0%
 
